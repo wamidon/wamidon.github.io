@@ -1,3 +1,7 @@
+.nav{
+	background-color: #dce5e8;
+}
+
 .nav a{
 	color: #5a5a5a;
 	font-size: 11px;
@@ -12,7 +16,7 @@
 
 .jumbotron {
 	background-size: cover;
-	background-image: url(img/forest.jpg);
+	background-image: url(img/pomp.jpg);
 	height: 500px;
 	background-repeat: no-repeat;
 }
@@ -41,7 +45,7 @@
 }
 
 .learn-more{
-	background-color: #4EC857;
+	background-color: #507e8d;
 }
 
 .learn-more a{
@@ -69,5 +73,5 @@
 	font-size: 10px;
 	color: #000000;
 	background-color: #FFFFFF;
-	padding: 8px 40px;
+	padding: 3px 20px;
 }
