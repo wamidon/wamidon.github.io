@@ -6,7 +6,7 @@
 		<link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
 		<link rel="stylesheet" href="main.css">
 		<meta charset="utf-8">
-		<title>About Wendy Amidon</title>
+		<title>Wendy Amidon Projects</title>
 		<meta name="description" content="Business student, coder, and adventure seeker!">
 		<meta name="keywords" content="student, business, computer science, coder, adventure">
 		<link rel='shortcut icon' href="img/Wendy_Amidon.ico" type='image/x-icon'/>
@@ -25,27 +25,14 @@
 			</div>
 		</div>
 		<!--Page Content-->
-		<div class="about">
-			<div class="container">
-				<h1>About</h1>
-				<div class="row">
-					<div class="col-md-6">
-						<h2>College</h2>
-						<p>Wendy is currently studying at <strong>Fordham University</strong> in Bronx New York</p>
-						<img src="img/Fordham.jpg" alt="Fordham Logo">
-						<p>
-							<a href="www.fordham.edu">Check out Fordham's Wesite</a>
-						</p>
-					</div>
-					<div class="col-md-6">
-						<h2>High School</h2>
-						<p>Wendy went to <strong>The Academy of Our Lady of Mercy Lauralton Hall</strong> in Milford Connecticut</p>
-						<img src="img/LH.jpg" alt="Lauralton Logo">
-						<p><a href="www.lauraltonhall.org">Check out Lauralton's website</a></p>
-					</div>
-				</div>
-			</div>
-		</div>
+		<h1>Contact Wendy</h1>
+		<p>I would love to hear from you! Send me an email at <a href="mailto:wendyea@snet.net">wendyea@snet.net</a></p>
+		<h3>Find me at other places on the internet:</h3>
+		<ul>
+			<li><a href="http://twitter.com/WendyAmidon?s=09">Twitter</a></li>
+			<li><a href="https://www.facebook.com/wendy.amidon">Facebook</a></li>
+			<li><a href="https://www.linkedin.com/in/wendyamidon">Linkedin</a></li>
+		</ul>
 		<!--Footer-->
 		<div class="footer">
 			<p>All content on this site is copyright&copy; 2016 Wendy Amidon </p>
